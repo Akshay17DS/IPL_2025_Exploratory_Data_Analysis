@@ -34,84 +34,69 @@ This project explores match and player-level data from the 2025 season of the In
 
 ## 🔍 EDA
 
-1. 🔝 Top 10 Run Scorers – IPL 2025
+## 1. 🔝 Top 10 Run Scorers – IPL 2025
 To identify standout batting performances, we calculated total runs scored by each player.
-
+<img width="989" height="590" alt="1 Top 10 Run Scorers" src="https://github.com/user-attachments/assets/53f0b27e-cfcb-48bd-a51a-f84b09315e3d" />
 
 Observation:
-
 Sai Sudharsan topped the chart with 759 runs, showing exceptional consistency throughout the season.
-
 Suryakumar Yadav and Kohli also crossed the 650-run mark, indicating strong top-order contributions.
 
-2. 🎯 Top 10 Wicket Takers – IPL 2025
+## 2. 🎯 Top 10 Wicket Takers – IPL 2025
 This chart highlights the most successful bowlers based on total wickets taken.
-
+<img width="990" height="590" alt="2 Top 10 Wicket Takers" src="https://github.com/user-attachments/assets/e54706d3-2ded-4e39-93f3-8f32d9b0d4f5" />
 
 Observation:
-
 Prasidh Krishna led with 25 wickets, followed closely by Noor Ahmad.
-
 Both pacers and spinners feature in the top 10, showing diverse bowling success.
 
-3. 🧠 Toss Impact on Match Result
+## 3. 🧠 Toss Impact on Match Result
 We analyzed how often teams that won the toss also won the match.
-
+<img width="740" height="504" alt="3 Toss Winner vs Match Winner" src="https://github.com/user-attachments/assets/4161f8cd-9ec9-4877-af21-101e6c6f5407" />
 
 Observation:
-
 Toss winners won the match ~57% of the time, showing a slight strategic advantage.
-
 However, the toss wasn’t a dominant deciding factor.
 
-4. 🏆 Win Percentage by Team
+## 4. 🏆 Win Percentage by Team
 Team-wise win rates were calculated for the 2025 season.
-
+<img width="860" height="547" alt="4 Win percentage by team" src="https://github.com/user-attachments/assets/daff9a88-72f2-4604-ab68-757422491613" />
 
 Observation:
-
 PBKS had the highest win percentage at 65%.
-
 RCB and GT also performed strongly, while CSK and RR had lower win rates.
 
-5. 🥇 Player of the Match Awards by Role
+## 5. 🥇 Player of the Match Awards by Role
 We categorized match awards by player roles.
 
+<img width="590" height="390" alt="5 Roles of Player of the Match (POTM) Winners" src="https://github.com/user-attachments/assets/b4cb3695-83e2-4b6b-a640-5324628f4e1a" />
 
 Observation:
-
 Batsmen dominated the awards, reflecting their impact on game outcomes.
-
 Bowlers and all-rounders contributed but were less frequently recognized.
 
-6. 🔥 Stage-wise Team Wins (League, Playoffs, Final)
+## 6. 🔥 Stage-wise Team Wins (League, Playoffs, Final)
 A breakdown of wins across tournament stages per team.
-
+<img width="903" height="590" alt="6 Stage-wise performance" src="https://github.com/user-attachments/assets/644bcf52-87c8-458f-a7df-3c48e139b2ce" />
 
 Observation:
-
 PBKS was dominant in league matches.
-
 RCB was the only team to win the final, while most teams failed to make an impact beyond the league stage.
 
-7. 🧾 Toss Decision vs Win Percentage
+## 7. 🧾 Toss Decision vs Win Percentage
 We checked how the toss decision (bat or bowl) affected win outcomes.
-
+<img width="790" height="490" alt="7 Impact of Toss Decision (Bat vs Field) on Win Percentage" src="https://github.com/user-attachments/assets/8ab5291b-91a5-44c8-88d3-8f8af43c9196" />
 
 Observation:
-
 Teams opting to bat first had a significantly higher win rate (~69%) than those who chose to bowl (~54%).
-
 Bat-first strategy proved more effective during IPL 2025.
 
-8. 🎯 Most Economical Bowlers (Min 10 Overs)
+## 8. 🎯 Most Economical Bowlers (Min 10 Overs)
 We analyzed economy rates to highlight bowlers who conceded the least.
-
+<img width="989" height="490" alt="8 Most Economical Bowlers" src="https://github.com/user-attachments/assets/07e616fe-06b9-4c1b-a6fb-13620edb7b9f" />
 
 Observation:
-
 Anshul Kamboj was the most economical, conceding under 8 runs/over.
-
 Tight bowling did not always correlate with high wicket counts, but helped contain opponents effectively.
 
 ## 🛠 Tools & Technologies
@@ -122,7 +107,7 @@ Tight bowling did not always correlate with high wicket counts, but helped conta
 
 ---
 
-🧠 Final Summary & Insights
+## 🧠 Final Summary & Insights
 
 This IPL 2025 Exploratory Data Analysis revealed several key patterns and performance trends:
 
@@ -145,7 +130,7 @@ This analysis not only spotlighted individual brilliance but also uncovered stra
 
 - **Name:** D Akshaykumar  
 - 📧 d.akshaykumar17@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/d-akshaykumar/)
 - 🔗 [GitHub](https://github.com/Akshay17DS)
 
 ---
