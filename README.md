@@ -7,7 +7,7 @@ This project explores match and player-level data from the 2025 season of the In
 
 ## Dataset Details
 
-### 🏏 Match-Level Data (`matches.csv`):
+### 🏏 Match-Level Data (`matches.csv`)
 - `match_id`: Unique match identifier
 - `team1`, `team2`: Participating teams
 - `toss_winner`, `toss_decision`
@@ -16,7 +16,7 @@ This project explores match and player-level data from the 2025 season of the In
 - `stage`: League, Playoffs, Final
 - Scores, wickets, and top individual performance indicators
 
-### 🎯 Delivery-Level Data (`deliveries.csv`):
+### 🎯 Delivery-Level Data (`deliveries.csv`)
 - `match_no`, `over`, `bowler`, `striker`
 - `runs_of_bat`, `extras`, `wicket_type`
 - Details of every delivery in the tournament
