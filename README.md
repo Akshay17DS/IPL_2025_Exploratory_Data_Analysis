@@ -1,11 +1,11 @@
 # IPL 2025 Dataset – Exploratory Data Analysis
 
-## Project Overview:
+## Project Overview
 This project explores match and player-level data from the 2025 season of the Indian Premier League (IPL), one of the world’s most watched cricket tournaments. Using exploratory data analysis (EDA) techniques, we uncover key performance trends, team strategies, and player contributions using ball-by-ball and match-level data.
 
 ---
 
-## Dataset Details:
+## Dataset Details
 
 ### 🏏 Match-Level Data (`matches.csv`):
 - `match_id`: Unique match identifier
@@ -23,7 +23,7 @@ This project explores match and player-level data from the 2025 season of the In
 
 ---
 
-## Objectives:
+## Objectives
 - Identify top performers in batting and bowling
 - Understand team consistency through win percentages
 - Evaluate toss decisions and their influence on match outcomes
